@@ -20,6 +20,6 @@
 - Created visualizations to identify patterns and trends such as survival rate by gender, class, and age group.
 
 🎯 Key Insights :
-= Women and children had higher survival rates.
+- Women and children had higher survival rates.
 - Passengers in higher classes (1st class) had a better chance of survival.
-= Fare price showed a positive correlation with survival probability.
+- Fare price showed a positive correlation with survival probability.
